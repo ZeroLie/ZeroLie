@@ -31,8 +31,4 @@
 </div>
   
 ##
-  
-<div align="center">
-  <br>
-  <img src="https://c.tenor.com/H106XFxMxQ0AAAAC/diabolik-lovers.gif">
-</div>
+
