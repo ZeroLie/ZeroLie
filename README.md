@@ -28,10 +28,7 @@
   <img align="center alt="Zero-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   <img src="https://tenor.com/view/diabolik-lovers-ayato-gif-5400977" align="right" alt="Zero-img"/>
 </div>
-  ##
-
-<div> 
-
-</div>
+  
+##
 
 
