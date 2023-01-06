@@ -6,12 +6,6 @@
 - ⚡ Fatos aleatórios: Mais aleatório que eu mesma, não existe :D
 
 <div align="center">
-  <a href="https://github.com/ZeroLie">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZeroLie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroLie&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
   <br>
   <img align="center alt="Zero-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center alt="Zero-Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg">
