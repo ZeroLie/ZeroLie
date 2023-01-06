@@ -1,7 +1,7 @@
 ## Oiê! Sou a Zero! 😁
 
 - 🔭 Foco maior em Front-end, porém com pézinho no Back-end também
-- 🌱 Em busca do conhecimento em React.js
+- 🌱 Em busca do conhecimento em React.js ~~e surtando~~
 - 😄 Pronomes: Ela/Dela/Elx/Delx
 - ⚡ Fatos aleatórios: Mais aleatório que eu mesma, não existe :D
 
