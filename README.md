@@ -36,4 +36,4 @@
 
   
 
-![snake gif](https://github.com/formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)  
+![snake gif](https://github.com/ZeroLie/ZeroLie/blob/output/github-contribution-grid-snake.svg)  
